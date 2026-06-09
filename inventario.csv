@@ -1,0 +1,55 @@
+ID,Nombre,Categoria,Precio,Stock,Vendidos
+,,,,,
+A001,Corona,Importada,0,0,0
+A002,Corona cero,Importada,0,0,0
+A003,Coronita,Importada,0,0,0
+A004,Heineken,Importada,0,0,0
+A005,Heineken cero,Importada,0,0,0
+A006,Budweiser,Importada,0,0,0
+A007,Michelob,Importada,0,0,0
+A008,Duff,Importada,0,0,0
+A009,Erdinger Weissbier,Importada,0,0,0
+A010,Erdinger Dunkel,Importada,0,0,0
+A011,Erdinger Pikantus,Importada,0,0,0
+A012,Paulaner Weisbier,Importada,0,0,0
+A013,8.6,Importada,0,0,0
+A014,Peroni,Importada,0,0,0
+A015,Liefmans,Importada,0,0,0
+A016,Gulden Drak,Importada,0,0,0
+A017,Innins & guns,Importada,0,0,0
+A018,Modelo,Importada,0,0,0
+A019,Cusqueña,Importada,0,0,0
+A020,Asahi,Importada,0,0,0
+A021,Duvel,Importada,0,0,0
+A022,Baltika,Importada,0,0,0
+A023,Weidman,Importada,0,0,0
+A024,Grolsch,Importada,0,0,0
+A025,Trooper,Importada,0,0,0
+A026,Ac dc,Importada,0,0,0
+A027,Stella,Importada,0,0,0
+B001,Tres cordilleras,Artesanal,0,0,0
+B002,Bruder,Artesanal,0,0,0
+B003,Santo beer,Artesanal,0,0,0
+C001,Absolut,Vodka,0,0,0
+C002,Smirnoff No 21,Vodka,0,0,0
+C003,Smirnoff tamarindo,Vodka,0,0,0
+C004,Smirnoff lulo,Vodka,0,0,0
+C005,Smirnoff ice,Vodka,0,0,0
+C006,Smirnoff Apple,Vodka,0,0,0
+C007,Like,Vodka,0,0,0
+D001,Cuates,Varios,0,0,0
+D002,Four Loko,Varios,0,0,0
+E001,Coca cola,Sin Alcohol,0,0,0
+E002,Colombiana,Sin Alcohol,0,0,0
+E003,Quatro,Sin Alcohol,0,0,0
+E004,Canadá dry,Sin Alcohol,0,0,0
+E005,Agua con y sin gas,Sin Alcohol,0,0,0
+E006,Mr tea,Sin Alcohol,0,0,0
+E007,Gatorade,Sin Alcohol,0,0,0
+E008,Vive 100,Sin Alcohol,0,0,0
+E009,Pony malta,Sin Alcohol,0,0,0
+E010,Electrolite,Sin Alcohol,0,0,0
+E011,Soda hatsu,Sin Alcohol,0,0,0
+E012,Tea hatsu,Sin Alcohol,0,0,0
+E013,Monster,Sin Alcohol,0,0,0
+E014,Red Bull,Sin Alcohol,0,0,0
